@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
 import Image from "next/image";
 import BarraSuperior from "./components/BarraSuperior";
 import { Menu } from "lucide-react";
